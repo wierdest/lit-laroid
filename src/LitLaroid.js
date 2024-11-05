@@ -101,7 +101,7 @@ export class LitLaroid extends LitElement {
 
   constructor() {
     super()
-    this.imageUrl = 'https://picsum.phos/400'
+    this.imageUrl = 'https://picsum.photos/400'
     this.caption = 'A default caption'
     this.flipped = false
     this.label = 'label'
